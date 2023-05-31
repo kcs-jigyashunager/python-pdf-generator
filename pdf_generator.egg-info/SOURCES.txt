@@ -1,0 +1,7 @@
+setup.py
+pdf_generator/convert.py
+pdf_generator.egg-info/PKG-INFO
+pdf_generator.egg-info/SOURCES.txt
+pdf_generator.egg-info/dependency_links.txt
+pdf_generator.egg-info/requires.txt
+pdf_generator.egg-info/top_level.txt
