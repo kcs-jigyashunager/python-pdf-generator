@@ -1,0 +1,17 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "json2pdf"
+version = "0.2"
+
+dependencies = [
+  "pandas",
+  "jinja2",
+  "PyPDF2",
+  "pdfkit"
+]
+
+
+

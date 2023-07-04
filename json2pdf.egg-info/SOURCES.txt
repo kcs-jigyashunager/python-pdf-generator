@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.py
+json2pdf.egg-info/PKG-INFO
+json2pdf.egg-info/SOURCES.txt
+json2pdf.egg-info/dependency_links.txt
+json2pdf.egg-info/requires.txt
+json2pdf.egg-info/top_level.txt
+pdf_generator/convert.py

@@ -1,8 +1,11 @@
 from setuptools import setup
 
+with open('README.md', 'r', encoding='utf-8') as file:
+    long_description = file.read()
+
 setup(
-    name='pdf_generator',
-    version='1.0.0',
+    name='pdfGeneratorpython',
+    version='0.2.1',
     packages=['pdf_generator'],
     install_requires=[
         'pandas',
@@ -10,4 +13,6 @@ setup(
         'pdfkit',
         'PyPDF2'
     ],
+    long_description=long_description,
+    long_description_content_type='text/markdown',
 )
